@@ -18,7 +18,7 @@ O projeto está sendo desenvolvido no modelo Web, focado no Front-end com as seg
 * **CSS3**
 * **JavaScript (JS)**
 
-## Equipe Desenvolvedora (Turma A)
+## Equipe Desenvolvedora
 * Beatriz Silva
 * Laoni Vaz
 * Livia Quintilhano
